@@ -23,3 +23,5 @@ Through these labs, I am actively translating theoretical networking concepts (O
   * *Objective:* Configure static IPv4 addressing, connect end devices via Layer 2 switching, and verify ICMP connectivity.
 * **[Lab 2: SOHO Wireless Setup](./Lab-02)** 
   * *Objective:* Deploy a wireless router, configure internal DHCP scopes, and establish WPA2 Wi-Fi security for end devices.
+* **[Lab 3: Creating and Isolating VLANs](./Lab-03)**
+  * *Objective:* Segment a physical switch into multiple logical broadcast domains (VLANs) and verify network isolation.
