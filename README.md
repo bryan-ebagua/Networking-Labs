@@ -33,7 +33,7 @@ Through these labs, I am actively translating theoretical networking concepts (O
   * *Objective:* Manually configure routing tables across multiple routers to establish end-to-end paths across different networks.
 * **[Lab 6: Dynamic Routing with OSPF](./Lab-06)** 
   * *Objective:* Automate routing table updates using Single-Area OSPF and observe dynamic path convergence.
-* **[Lab 7: Traffic Filtering with ACLs](./Lab-07)** - `[Not Started]`
+* **[Lab 7: Traffic Filtering with ACLs](./Lab-07)** 
   * *Objective:* Write and apply Standard and Extended Access Control Lists to restrict traffic based on IP addresses and specific port protocols (HTTP, ICMP).
 
 ### Advanced Enterprise Architecture
