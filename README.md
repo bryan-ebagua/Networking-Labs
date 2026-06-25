@@ -37,7 +37,7 @@ Through these labs, I am actively translating theoretical networking concepts (O
   * *Objective:* Write and apply Standard and Extended Access Control Lists to restrict traffic based on IP addresses and specific port protocols (HTTP, ICMP).
 
 ### Advanced Enterprise Architecture
-* **[Lab 8: NAT & PAT (Network Address Translation)](./Lab-08)** - `[Not Started]`
+* **[Lab 8: NAT & PAT (Network Address Translation)](./Lab-08)**
   * *Objective:* Configure NAT Overload (PAT) to allow private internal networks to access the public internet using a single public IP, and Static NAT for web server hosting.
 * **[Lab 9: Site-to-Site IPsec VPN](./Lab-09)** - `[Not Started]`
   * *Objective:* Establish a secure, encrypted tunnel over a simulated public internet between two remote corporate branch routers.
